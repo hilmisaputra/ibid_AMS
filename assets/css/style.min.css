@@ -1,0 +1,6 @@
+.card > .alert, .card-content > .alert{
+    margin-bottom: 10px !important; 
+}
+li.menu-category:after {
+	content: none;
+}
